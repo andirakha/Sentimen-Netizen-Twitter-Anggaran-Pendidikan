@@ -34,19 +34,19 @@ Proyek ini dibagi menjadi beberapa tahapan yang dieksekusi secara berurutan mela
     * Laporan klasifikasi dari semua model disimpan dalam satu file `all_classification_reports.csv`.
 
 5.  **Visualisasi dan Analisis Hasil (`visualization_of_classification_model_evaluation.py`)**
-    * [cite_start]Membuat berbagai visualisasi untuk menganalisis data dan membandingkan performa model menggunakan `Matplotlib` dan `Seaborn`. [cite: 1]
-    * [cite_start]Visualisasi mencakup perbandingan akurasi, F1-Score, *Word Cloud*, tren waktu, dan *heatmap* frekuensi kata. [cite: 1]
+    * Membuat berbagai visualisasi untuk menganalisis data dan membandingkan performa model menggunakan `Matplotlib` dan `Seaborn`. 
+    * Visualisasi mencakup perbandingan akurasi, F1-Score, *Word Cloud*, tren waktu, dan *heatmap* frekuensi kata. 
 
 ---
 
 ## 🛠️ Teknologi dan Modul Utama
 
 * **Pengambilan Data**: `selenium`
-* [cite_start]**Manipulasi Data**: `pandas` [cite: 1]
+* **Manipulasi Data**: `pandas`
 * **Pra-pemrosesan Teks**: `nltk`, `re`
 * **Model Deep Learning (Pelabelan)**: `torch`, `transformers`
-* [cite_start]**Model Machine Learning Klasik**: `scikit-learn` [cite: 1]
-* [cite_start]**Visualisasi Data**: `matplotlib`, `seaborn`, `wordcloud` [cite: 1]
+* **Model Machine Learning Klasik**: `scikit-learn` 
+* **Visualisasi Data**: `matplotlib`, `seaborn`, `wordcloud` 
 
 ---
 
