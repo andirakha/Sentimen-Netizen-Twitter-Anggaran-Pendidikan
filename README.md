@@ -69,8 +69,8 @@ Proyek ini dibagi menjadi beberapa tahapan yang dieksekusi secara berurutan mela
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/nama-anda/nama-repo-anda.git](https://github.com/nama-anda/nama-repo-anda.git)
-    cd nama-repo-anda
+    git clone [https://github.com/andirakha/Sentimen-Netizen-Twitter-Anggaran-Pendidikan.git](https://github.com/andirakha/Sentimen-Netizen-Twitter-Anggaran-Pendidikan.git)
+    cd Sentimen-Netizen-Twitter-Anggaran-Pendidikan
     ```
 
 2.  **Instalasi Dependensi**
